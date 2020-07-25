@@ -1,1 +1,2 @@
 - [Подключение FMOD в CMake-проект на macOS](FMOD-CMake-macOS)
+- [Проигрывание звукового файла в Qt-проекте на macOS](FMOD-qmake-macOS)
